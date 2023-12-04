@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 <img width="170px" src="https://github.com/bitcrafty/bitcrafty/assets/135437223/89869409-2200-48e0-89a8-5662161bdc11"></br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=bitcrafty&theme=transparent&show_icons=true&count_private=true&title_color=5affcb&text_color=5affcb"></td>
+<img src="https://github-readme-stats.vercel.app/api?username=bitcrafty&theme=dark&show_icons=true&count_private=true&title_color=5affcb&text_color=5affcb"></td>
 
 
 <h2></h2>
