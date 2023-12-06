@@ -4,16 +4,13 @@ bitcrafty/bitcrafty is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<div align="center">
-  <img width="950px"  src="https://github.com/bitcrafty/bitcrafty/assets/135437223/c663051e-099b-4bb8-92dc-929233019d25"/>
-</div>
-
-
+<p align="center">
+  <a href="https://github.com/bitcrafty">
+    <img width="100%" alt="Hi, I'm Diwankar. Learning Data Science and Flutter" src="https://github.com/bitcrafty/bitcrafty/assets/135437223/6eeb8e92-7372-4ebe-a8ac-4a65fa5d03ed" />
+  </a>
+</p>
 
 <!--- using headings for horizontal borders because of its weight (thin lines) --->
-
-
-<h2></h2>
 
 <img width="150px" src="https://github.com/bitcrafty/bitcrafty/assets/135437223/be3ad5e5-725c-4305-836e-40ec26eeda6b"/></br>
 
