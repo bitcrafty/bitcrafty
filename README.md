@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <img width="150px" src="https://github.com/bitcrafty/bitcrafty/assets/135437223/be3ad5e5-725c-4305-836e-40ec26eeda6b"/></br>
 
-- 📊 Currently learning Data Science 
+- 📊 Currently learning Data Science and Big Data Analytics
 - 🛠 Interested in creating apps 
 - 🛡️ I actively support FOSS and always on the lookout for privacy alternatives for popular apps 
 
